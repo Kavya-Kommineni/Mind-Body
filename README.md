@@ -1,2 +1,2 @@
 # Mind-Body
-Aravind Shankar - website
+A minimalist website by Aravind Shankar
